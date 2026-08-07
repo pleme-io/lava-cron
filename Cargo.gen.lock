@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "cargo_lock_sha256": "496563a55576b5697d1d2ece98d9b23dc58c0464a988416b2c5f2663883968ed",
+  "cargo_lock_sha256": "198b4ff74eaf5d2a480e59055909161cc4353db79eadb3626ff3450acb9f265b",
   "manifest_sha256": {
-    "Cargo.toml": "8d0adbb66128574ad7f53e0def1bd3fb597417085af7795776aa4dad2e137401"
+    "Cargo.toml": "c437e57dae85e8c5adf83e942dac9a8910ba17a67b1a29a47012a4c2638bd7bd"
   },
   "target_resolves": {
     "base": {
@@ -181,7 +181,7 @@
         "build_dependencies": [],
         "features": []
       },
-      "lava-cron-0.1.3": {
+      "lava-cron-0.1.4": {
         "runtime_dependencies": [
           {
             "name": "indexmap",
@@ -808,7 +808,7 @@
     "lava-core-0.1.7": {
       "edition": "2024"
     },
-    "lava-cron-0.1.3": {
+    "lava-cron-0.1.4": {
       "edition": "2024",
       "lib_target": {
         "name": "lava_cron",
